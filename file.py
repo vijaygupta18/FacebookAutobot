@@ -1,4 +1,3 @@
-import sys
 import pyttsx3
 import time
 from selenium import webdriver
