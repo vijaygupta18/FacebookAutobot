@@ -5,9 +5,10 @@ How Code works
 
 2:-Input your username and password in the given file.
 
-3: If you are using chrome then download webdriver for your browser.
+3: Download webdriver for your browser.
 
-Link:-https://sites.google.com/a/chromium.org/chromedriver/downloads
+- Chrome link:-https://sites.google.com/a/chromium.org/chromedriver/downloads
+- Firefox link:- https://github.com/mozilla/geckodriver/releases
 
 4: Locate your driver in given file.
 
