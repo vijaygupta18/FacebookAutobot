@@ -7,11 +7,11 @@ newVoiceRate = 160
 tts.setProperty('rate', newVoiceRate)
 def welcome():
     print('>')
-    print("Welcome to Autobot created by Vijay.Use exit or quite to exit.")
+    print("Welcome to Autobot created by Vijay. Use exit or type 'quit' to exit.")
     text="Welcome to Autobot created by Vijay"
     speak(text)
     time.sleep(1)
-    text="Use exit or quite to exit."
+    text="Use exit or enter quit to exit."
     speak(text)
     print('<')
 
@@ -32,8 +32,8 @@ while(t==1):
         speak(text)
         continue
     if "facebook" or "fb" in text:
-        print("Opeing Your Facebook Account")
-        text="Opeing Your Facebook Account"
+        print("Opening Your Facebook Account")
+        text="Opening Your Facebook Account"
         speak(text)
         #your username and password here
         username="your username"
